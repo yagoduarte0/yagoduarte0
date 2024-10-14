@@ -9,7 +9,7 @@
 
 ## Linguagens de programacao que uso no dia-a-dia
 
-<div display= "inline_block" align="center"><br/>
+<div display= "inline_block"><br/>
     <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -17,9 +17,14 @@
 </div>
 
 <br/>
+Sou apaixonado por computadores, inclusive montei o meu proprio. Estou nessa caminhada para me tornar um programador Full Stack.
 
-<div align="center">
+<br/>
+
+<div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoduarte0&layout=compact)
 
 </div>
+
+<a>Caso queira interagir melhor aqui esta meus links relacionados a jogos</a>
