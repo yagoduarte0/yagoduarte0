@@ -7,7 +7,7 @@
 
 ![Yago GitHub stats](https://github-readme-stats.vercel.app/api?username=yagoduarte0&theme=dark_icons=true)
 
-## Linguagens de programacao que uso no dia-a-dia
+## Linguagens de programacao que uso no dia-a-dia 🖥️
 
 <div display= "inline_block"><br/>
     <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -27,4 +27,8 @@ Sou apaixonado por computadores, inclusive montei o meu proprio. Estou nessa cam
 
 </div>
 
-<a>Caso queira interagir melhor aqui esta meus links relacionados a jogos</a>
+## Caso queira interagir melhor aqui esta meus links relacionados a jogos 👾
+
+[![Blog](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199088412317/)
+[![Blog](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)](GabrielPasternak#999)
+[![Blog](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](Oikawa-Tan)
