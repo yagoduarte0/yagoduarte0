@@ -16,17 +16,16 @@
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">    
 </div>
 
-<br/>
-Sou apaixonado por computadores, inclusive montei o meu proprio. Estou nessa caminhada para me tornar um programador Full Stack.
-
-<br/>
-
-
 <div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoduarte0&layout=compact)
 
 </div>
+
+<br/>
+Sou apaixonado por computadores, inclusive montei o meu proprio. Estou nessa caminhada para me tornar um programador Full Stack.
+
+<br/>
 
 ## Caso queira interagir melhor aqui esta meus links relacionados a jogos 👾
 
