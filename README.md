@@ -21,6 +21,7 @@ Sou apaixonado por computadores, inclusive montei o meu proprio. Estou nessa cam
 
 <br/>
 
+
 <div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoduarte0&layout=compact)
