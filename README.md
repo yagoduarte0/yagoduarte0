@@ -5,8 +5,6 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duarte.1786/)
 [![Blog](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22tu3ytvl4o5i6ogwmgvkywka?si=300140a31a1a4f4e)
 
-![Yago GitHub stats](https://github-readme-stats.vercel.app/api?username=yagoduarte0&theme=dark_icons=true)
-
 ## Linguagens de programacao que uso no dia-a-dia 🖥️
 
 <div display= "inline_block"><br/>
