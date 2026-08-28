@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Yago Duarte 🤙</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-End;Apaixonado+por+React+%26+JavaScript;Sempre+aprendendo+coisas+novas+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=TI+Intern;Fascinado+porCyberSeguranca;Automacao+com+Claude%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
